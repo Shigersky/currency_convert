@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\shige\source\repos\idk\idk\main.cpp(8,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  idk.vcxproj -> C:\Users\shige\source\repos\idk\x64\Debug\idk.exe
